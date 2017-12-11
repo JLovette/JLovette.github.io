@@ -45,7 +45,8 @@ h2 {
     font-size: 1.75rem; }
 
 .list-icons {
-  font-size: 3rem; }
+  font-size: 3rem;
+  color: #6f42c1; }
   .list-icons .list-inline-item i:hover {
     color: #ffc107; }
 
