@@ -6,7 +6,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #19ABE5; }
+  color: red; }
 
 @media (min-width: 992px) {
   body {
@@ -22,7 +22,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40; }
+  color: #af42c1; }
 
 h1 {
   font-size: 6rem;
@@ -87,7 +87,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #0EF2FC;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
@@ -105,12 +105,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #6f42c1 !important; }
+  background-color:#0fc0fc !important; }
 
 .text-primary {
-  color: #6f42c1 !important; }
+  color:#6f42c1 !important; }
 
 a {
-  color: #6f42c1; }
+  color: #0fc0fc; }
   a:hover, a:focus, a:active {
-    color: #4e2d89; }
+    color: #0EF2FC; }
